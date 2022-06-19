@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Maria 👋
+### Java/Kotlin developer from Moscow
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning GraphQL
 
 <!--
 **koshmarik/koshmarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
