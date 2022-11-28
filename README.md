@@ -1,5 +1,5 @@
 # Hi there, I'm Maria 👋
-### Java/Kotlin developer from Moscow
+### Java/Kotlin developer (Berlin)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
