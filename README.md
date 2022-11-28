@@ -8,9 +8,6 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning GraphQL
-
 <!--
 **koshmarik/koshmarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
